@@ -52,4 +52,4 @@ We retain the [same licensing](https://github.com/AlexJonesNLP/alt-bitexts/blob/
 
 ## **Citation**
 
-BibTeX citation for our paper COMING SOON. Citations for all referenced papers should be available at links given above. For a full list of relevant works, please see our paper (LINK COMING SOON).
+BibTeX citation for our paper COMING SOON. Citations for all referenced papers should be available at links given above. For a full list of relevant works, please see [our paper](https://github.com/AlexJonesNLP/alt-bitexts/blob/main/paper.pdf).
