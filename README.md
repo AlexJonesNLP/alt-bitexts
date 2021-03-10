@@ -48,7 +48,7 @@ We [also provide](https://github.com/AlexJonesNLP/alt-bitexts/tree/main/BUCC_EN-
 
 ## **License**
 
-We retain the same licensing (BSD) as used in the LASER repository. We acknowledge the derivative nature of our work and direct users to contact the originators of the core tools and methods we use for questions regarding fair usage.
+We retain the [same licensing](https://github.com/AlexJonesNLP/alt-bitexts/blob/main/LICENSE) (BSD) as used in the LASER repository. We acknowledge the derivative nature of our work and direct users to contact the originators of the core tools and methods we use for questions regarding fair usage.
 
 ## **Citation**
 
