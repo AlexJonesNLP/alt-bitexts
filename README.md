@@ -1,5 +1,5 @@
 # alt-bitexts
-Data and code associated with paper **An Alternative to Thresholding for Margin-Based Bitext Mining** (Alex Jones & Derry Tanti Wijaya, 2021). COMING TO arXiv SOON.
+Data and code associated with paper **An Alternative to Thresholding for Margin-Based Bitext Mining** (Alex Jones & Derry Tanti Wijaya, 2021). COMING TO arXiv SOON. For now, please use [this temporary link](https://github.com/AlexJonesNLP/alt-bitexts/blob/main/paper.pdf).
 
 ## **Summary**
 
