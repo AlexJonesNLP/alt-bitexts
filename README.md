@@ -1,5 +1,5 @@
 # alt-bitexts
-Data and code associated with paper **Majority Voting with Bidirectional Pre-translation Improves Bitext Retrieval** (Alex Jones & Derry Tanti Wijaya, 2021). COMING TO arXiv SOON. For now, please use [this temporary link](https://github.com/AlexJonesNLP/alt-bitexts/blob/main/paper.pdf).
+Data and code associated with paper **Majority Voting with Bidirectional Pre-translation Improves Bitext Retrieval** (Alex Jones & Derry Tanti Wijaya, 2021). COMING TO arXiv SOON. For now, please use [this temporary link](https://github.com/AlexJonesNLP/alt-bitexts/blob/main/bitext-paper.pdf).
 
 ## **Summary**
 
@@ -52,4 +52,4 @@ We retain the [same licensing](https://github.com/AlexJonesNLP/alt-bitexts/blob/
 
 ## **Citation**
 
-BibTeX citation for our paper COMING SOON. Citations for all referenced papers should be available at links given above. For a full list of relevant works, please see [our paper](https://github.com/AlexJonesNLP/alt-bitexts/blob/main/paper.pdf).
+BibTeX citation for our paper COMING SOON. Citations for all referenced papers should be available at links given above. For a full list of relevant works, please see [our paper](https://github.com/AlexJonesNLP/alt-bitexts/blob/main/bitext-paper.pdf).
