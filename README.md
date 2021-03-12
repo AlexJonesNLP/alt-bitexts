@@ -64,5 +64,3 @@ If you use any of the methods or generated data in this repo, please cite our pa
       primaryClass={cs.CL}
 }
 ```
-
-Citations for all referenced papers should be available at links given above. For a full list of relevant works, please see [our paper](https://arxiv.org/abs/2103.06369).
