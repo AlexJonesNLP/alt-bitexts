@@ -52,7 +52,7 @@ We retain the [same licensing](https://github.com/AlexJonesNLP/alt-bitexts/blob/
 
 ## **Citation**
 
-If you use any of the methods or generated data in this repo, please cite our paper:
+If you use any of the methods or original data in this repo, please cite our paper:
 
 ```
 @misc{jones2021majority,
