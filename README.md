@@ -52,6 +52,8 @@ We retain the [same licensing](https://github.com/AlexJonesNLP/alt-bitexts/blob/
 
 ## **Citation**
 
+If you use any of the methods or generated data in this repo, please cite our paper:
+
 ```
 @misc{jones2021majority,
       title={Majority Voting with Bidirectional Pre-translation Improves Bitext Retrieval}, 
