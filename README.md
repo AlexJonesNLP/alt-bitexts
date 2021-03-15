@@ -1,5 +1,5 @@
 # alt-bitexts
-Data and code associated with paper [**Majority Voting with Bidirectional Pre-translation Improves Bitext Retrieval**](https://arxiv.org/abs/2103.06369) (Alex Jones & Derry Tanti Wijaya, 2021).
+Data and code associated with paper [**Majority Voting with Bidirectional Pre-translation For Bitext Retrieval**](https://arxiv.org/abs/2103.06369) (Alex Jones & Derry Tanti Wijaya, 2021).
 
 ## **Summary**
 
@@ -56,7 +56,7 @@ If you use any of the methods or original data in this repo, please cite our pap
 
 ```
 @misc{jones2021majority,
-      title={Majority Voting with Bidirectional Pre-translation Improves Bitext Retrieval}, 
+      title={Majority Voting with Bidirectional Pre-translation For Bitext Retrieval}, 
       author={Alex Jones and Derry Tanti Wijaya},
       year={2021},
       eprint={2103.06369},
