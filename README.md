@@ -55,12 +55,16 @@ We retain the [same licensing](https://github.com/AlexJonesNLP/alt-bitexts/blob/
 If you use any of the methods or original data in this repo, please cite our paper:
 
 ```
-@misc{jones2021majority,
-      title={Majority Voting with Bidirectional Pre-translation For Bitext Retrieval}, 
-      author={Alex Jones and Derry Tanti Wijaya},
-      year={2021},
-      eprint={2103.06369},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
+@inproceedings{jones-wijaya-2021-majority,
+    title = "Majority Voting with Bidirectional Pre-translation For Bitext Retrieval",
+    author = "Jones, Alexander  and
+      Wijaya, Derry Tanti",
+    booktitle = "Proceedings of the 14th Workshop on Building and Using Comparable Corpora (BUCC 2021)",
+    month = sep,
+    year = "2021",
+    address = "Online (Virtual Mode)",
+    publisher = "INCOMA Ltd.",
+    url = "https://aclanthology.org/2021.bucc-1.7",
+    pages = "46--59"
+   }
 ```
